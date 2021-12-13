@@ -1,0 +1,7 @@
+{
+  "extends": ["react-app"],
+  "rules": {
+    // "react/prop-types": "warn",
+    "semi": "error" // 結尾要加分號
+  }
+}
